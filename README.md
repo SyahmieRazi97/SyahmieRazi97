@@ -14,7 +14,7 @@
 Here are some of my featured projects:
 - 🔹 [Rural Job App (FYP)](https://github.com/SyahmieRazi97/rural_job_apps) – Flutter app to help rural job seekers
 - 🔹 [Sistem Keberadaan Staf PoliBesut](https://github.com/SyahmieRazi97/Sistem-Keberadaan-Staff-PoliBesut-iKSP-) – Firebase-based reporting and tracking system
-- 🔹 [Educational_Accounting_Notes & Quiz Game](https://github.com/SyahmieRazi97/ACCOTEST) – Educational drag-and-drop game
+- 🔹 [Educational Accounting Notes & Quiz Game](https://github.com/SyahmieRazi97/ACCOTEST) – Educational drag-and-drop game
 > 👉 Check out pinned repositories for more!
 
 ### 📫 Contact Me

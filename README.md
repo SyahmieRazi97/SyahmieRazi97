@@ -1,12 +1,12 @@
 ## Hi there 👋 I'm Syahmie Razi
 
-🎓 Fresh graduate in Computer Science from UiTM  
+🎓 Fresh graduate in Computer Science from UiTM Jasin
 💻 Passionate about software development | Mobile apps | Web technologies  
 🚀 Actively seeking junior developer opportunities
 
 ### 👨‍💻 About Me
-- 🌱 Currently learning **Flutter**, **Angular**, **Firebase**, and **Bootspring**
-- 🛠️ Experienced in **Java**, **Python**, **C++**, and **MySQL**
+- 🌱 Currently learning **Angular** and **Bootspring**
+- 🛠️ Experienced in **Java**, **Python**, **Flutter**, **Firebase**, **C++**, and **MySQL**
 - 📱 Built mobile apps using **Flutter** (e.g. staff management app, job matching app)
 - 🌍 Love building real-world projects that solve community problems
 

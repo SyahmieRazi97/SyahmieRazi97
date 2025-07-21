@@ -3,7 +3,7 @@
 - 💻 Passionate about software development | Mobile apps | Web technologies  
 - 🚀 Actively seeking junior developer opportunities
 - 🌱 Currently learning **Angular**,**NodeJS** and **Bootspring**
-- 🛠️ Experienced in **Java**, **Flutter**, **Firebase**, **C++**, and **MySQL**
+- 🛠️ Experienced in **Java**, **Flutter**, **Firebase**, **PHP**, and **MySQL**
 - 📱 Built mobile apps using **Flutter** (e.g. staff management app, job matching app)
 - 🌍 Love building real-world projects that solve community problems
 
